@@ -1,3 +1,5 @@
 <h1>Belajar Git, Hello World!</h1>
 
 <p>update 1</p>
+
+<p>update 2</p>
