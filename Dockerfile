@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 
 # Install only production dependencies
 COPY package.json package-lock.json* ./
-RUN npm install --production --no-audit --no-fund
+RUN npm install
 
 COPY . .
 
